@@ -3,27 +3,31 @@ layout: page
 title: Gallery
 ---
 
+## Language Editing
+
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  <b>Advanced Editing:</b>
+If you have organized content that needs sentence-level editing and very few revisions before and after journal submission.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+![standard-editing](/public/standard-editing.svg)
 
-There are currently two themes built on Poole:
+<p class="message">
+  <b>Premium Editing:</b>
+If you would like to collaborate with our experienced editors multiple times to submit the best version of your manuscript to the journal and for post-submission communication with the journal.
+</p>
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+![premium-editing](/public/premium-editing.svg)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+<p class="message">
+  <b>Scientific Editing:</b>
+If you are aiming to publish in a high-impact journal and would like an in-depth technical review by Nature peer reviewers and developmental editing by premium editors with 20+ years’ experience.
+</p>
 
-## Setup
+![top-journal](/public/top-journal.svg)
 
-Some fun facts about the setup of this project include:
+## Graphic illustration
 
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+<img src="{{ site.url }}{{ site.baseurl }}/public/pic1.jpg" style="width:250px;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/public/pic2.jpg" style="width:250px;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/public/pic3.jpg" style="width:250px;"/>

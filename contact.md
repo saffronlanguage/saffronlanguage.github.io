@@ -4,26 +4,12 @@ title: Contact
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Please contact Saffron Language by email. <br/>
+  Email: saffronlanguage@gmail.com<br/>
+  Address: 27 Cromwell Rd    <br/>
+Saffron Walden    <br/>
+CB11 4AX    <br/>
+UK    <br/>
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2455.7711409605386!2d0.24248491613126347!3d52.01104807972106!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d889d205fd1c9f%3A0xf1d642a893464b96!2s27%20Cromwell%20Rd%2C%20Saffron%20Walden%20CB11%204AX%2C%20UK!5e0!3m2!1sen!2s!4v1654178719337!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

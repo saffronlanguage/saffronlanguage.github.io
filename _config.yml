@@ -10,7 +10,7 @@ permalink: pretty
 plugins:
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-seo-tag
+#  - jekyll-seo-tag
 
 # Optimize Jekyll
 exclude:
@@ -38,4 +38,4 @@ author:
   email: saffronlanguage@gmail.com
 
 # Custom vars
-version: 2021
+version: 2022
